@@ -1,0 +1,8 @@
+C:\Users\ahsan\source\repos\TDD-Examples\Src\TDDExample_1\bin\Debug\netstandard2.0\TDDExample_1.deps.json
+C:\Users\ahsan\source\repos\TDD-Examples\Src\TDDExample_1\bin\Debug\netstandard2.0\TDDExample_1.dll
+C:\Users\ahsan\source\repos\TDD-Examples\Src\TDDExample_1\bin\Debug\netstandard2.0\TDDExample_1.pdb
+C:\Users\ahsan\source\repos\TDD-Examples\Src\TDDExample_1\obj\Debug\netstandard2.0\TDDExample_1.AssemblyInfoInputs.cache
+C:\Users\ahsan\source\repos\TDD-Examples\Src\TDDExample_1\obj\Debug\netstandard2.0\TDDExample_1.AssemblyInfo.cs
+C:\Users\ahsan\source\repos\TDD-Examples\Src\TDDExample_1\obj\Debug\netstandard2.0\TDDExample_1.dll
+C:\Users\ahsan\source\repos\TDD-Examples\Src\TDDExample_1\obj\Debug\netstandard2.0\TDDExample_1.pdb
+C:\Users\ahsan\source\repos\TDD-Examples\Src\TDDExample_1\obj\Debug\netstandard2.0\TDDExample_1.csprojAssemblyReference.cache
