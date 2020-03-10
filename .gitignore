@@ -3,6 +3,7 @@
 ################################################################################
 
 /.vs/TDD-Examples
-bin
-obj
-packages
+/TDD-Examples/TDDExample_1/bin
+/TDD-Examples/TDDExample_1/obj
+/TDD-Examples/TDDExample_1.UnitTests/bin
+/TDD-Examples/TDDExample_1.UnitTests/obj
