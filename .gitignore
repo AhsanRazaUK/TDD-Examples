@@ -3,7 +3,7 @@
 ################################################################################
 
 /.vs/TDD-Examples
-/TDD-Examples/TDDExample_1/bin
-/TDD-Examples/TDDExample_1/obj
-/TDD-Examples/TDDExample_1.UnitTests/bin
-/TDD-Examples/TDDExample_1.UnitTests/obj
+/Src/TDD-Examples/TDDExample_1/bin
+/Src/TDD-Examples/TDDExample_1/obj
+/Tests/TDD-Examples/TDDExample_1.UnitTests/bin
+/Tests/TDD-Examples/TDDExample_1.UnitTests/obj
